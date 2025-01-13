@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fine-tuning CodeT5 to generate Google C++ test cases<br>🤝 I’m looking to collaborate on Open-source MLOps projects and Innovative generative AI tools and pipelines<br>🌱 I’m currently learning Advanced DevOps and CI/CD pipelines and Best practices for AWS Cloud Practitioner certification<br>💬 Ask me about Finetuning models for code generation<br>⚡ Fun fact I’m combining my software engineering expertise with a passion for creative storytelling in games!<br>
+🎓 I have completed my Bachelor's in Computer Science from FAST University 🔭 I’m currently working on Fine-tuning CodeT5 to generate Google C++ test cases<br>🤝 I’m looking to collaborate on Open-source MLOps projects and Innovative generative AI tools and pipelines<br>🌱 I’m currently learning Advanced DevOps and CI/CD pipelines and Best practices for AWS Cloud Practitioner certification<br>💬 Ask me about Finetuning models for code generation<br>⚡ Fun fact I’m combining my software engineering expertise with a passion for creative storytelling in games!<br>
 
 
 ## 🌐 Socials:
