@@ -1,6 +1,7 @@
 # 💫 About Me:
 🎓 I have completed my Bachelor's in Computer Science from FAST University <br> 🔭 I’m currently working on Fine-tuning CodeT5 to generate Google C++ test cases<br>🤝 I’m looking to collaborate on Open-source projects and Innovative generative AI tools and pipelines<br>🌱 I’m currently learning Advanced DevOps and CI/CD pipelines and Best practices for AWS Cloud Practitioner certification<br>💬 Ask me about Finetuning models for code generation<br>⚡ Fun fact I’m combining my software engineering expertise with a passion for creative storytelling in games!<br>
 
+> 🚀 **Secondary / Work Account:** Check out my specialized AI & Backend projects at [**@faizanpervaz-agenticdream**](https://github.com/faizanpervaz-agenticdream)
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/faizanpervaz-agenticdream) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ayefaizy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ayefaizy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayefaizy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-pervaz-960916210)
